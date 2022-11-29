@@ -1,0 +1,23 @@
+.tunaheader {
+    color: pink;
+    font-size: 44px;
+    font-family: monospace;
+}
+
+img {
+    height: 325px;
+    width: 700px;
+}
+
+h2 {
+    font-size: 30px;
+    background-color: hsl(300, 45%, 88%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 15px;
+    background-color: hsl(300, 65%, 81%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
